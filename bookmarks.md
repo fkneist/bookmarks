@@ -9,6 +9,9 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 ### Learning ES6
 * https://babeljs.io/
 
+### Online Tools
+* https://developers.google.com/speed/pagespeed/insights/
+
 ## Bash/Shell
 * http://explainshell.com/ - explains shell commands, doh
 * http://mywiki.wooledge.org/BashGuide 
