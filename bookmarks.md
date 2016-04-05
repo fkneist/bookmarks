@@ -25,3 +25,7 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 
 ## Haskell
 * https://tryhaskell.org/ - online interactive command line guide
+
+## Git
+* https://try.github.io/ - interactive git basics
+* http://pcottle.github.io/learnGitBranching/ - learn git branching interactively
