@@ -19,6 +19,8 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 
 ## R
 * http://swirlstats.com/ - interactive command line guides
+* https://youtu.be/wki0BqlztCo - talks about dplyr, ggvis w/ demos
+* bit.ly/expressive-da2 - slides  for the above
 
 ## Regex
 * https://regex101.com/ - for building and testing them
@@ -28,4 +30,4 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 
 ## Git
 * https://try.github.io/ - interactive git basics
-* http://pcottle.github.io/learnGitBranching/ - learn git branching interactively
+* http://pcottle.github.io/learnGitBranching/ - learn git branching interactively (very helpful visualization)
