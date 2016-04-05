@@ -21,6 +21,7 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 * http://swirlstats.com/ - interactive command line guides
 * https://youtu.be/wki0BqlztCo - talks about dplyr, ggvis w/ demos
 * http://bit.ly/expressive-da2 - slides  for the above
+* https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/ - R Regex cheat sheet
 
 ## Regex
 * https://regex101.com/ - for building and testing them
