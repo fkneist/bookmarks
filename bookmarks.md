@@ -22,6 +22,7 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 * https://youtu.be/wki0BqlztCo - talks about dplyr, ggvis w/ demos
 * http://bit.ly/expressive-da2 - slides  for the above
 * https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/ - R Regex cheat sheet
+* https://google.github.io/styleguide/Rguide.xml - Styleguide, yay!
 
 ## Regex
 * https://regex101.com/ - for building and testing them
