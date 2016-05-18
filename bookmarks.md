@@ -37,3 +37,7 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 
 ## YAML
 * http://docs.ansible.com/ansible/YAMLSyntax.html - YAML config files are popping up everywhere. Know the syntax dev!
+
+# Back End
+## Java
+* http://programmingbydoing.com/ - Java exercises
