@@ -36,7 +36,10 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 * http://pcottle.github.io/learnGitBranching/ - learn git branching interactively (very helpful visualization)
 
 ## YAML
-* http://docs.ansible.com/ansible/YAMLSyntax.html - YAML config files are popping up everywhere. Know the syntax dev!
+* http://docs.ansible.com/ansible/YAMLSyntax.html - YAML config files are popping up everywhere. Know the syntax dev! 
+
+## Licensing
+* https://tldrlegal.com/ - Software Licenses easy to understand
 
 # Back End
 ## Java
