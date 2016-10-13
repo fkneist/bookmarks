@@ -12,6 +12,9 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 ### Online Tools
 * https://developers.google.com/speed/pagespeed/insights/
 
+### Functional Programming
+https://drboolean.gitbooks.io/mostly-adequate-guide/content/
+
 ## Bash/Shell
 * http://explainshell.com/ - explains shell commands, doh
 * http://mywiki.wooledge.org/BashGuide 
