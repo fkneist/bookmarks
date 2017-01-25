@@ -23,6 +23,7 @@ http://www.dofactory.com/javascript/design-patterns
 * http://explainshell.com/ - explains shell commands, doh
 * http://mywiki.wooledge.org/BashGuide 
 * http://guide.bash.academy/ - newer WIP version of the above
+* http://wiki.bash-hackers.org/howto/redirection_tutorial - Illustrated Redirection Tutorial
 
 ## R
 * http://swirlstats.com/ - interactive command line guides
