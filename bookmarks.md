@@ -43,6 +43,10 @@ http://www.dofactory.com/javascript/design-patterns
 * https://try.github.io/ - interactive git basics
 * http://pcottle.github.io/learnGitBranching/ - learn git branching interactively (very helpful visualization)
 
+## Vim
+* https://gist.github.com/awidegreen/3854277 - Useful vim commands to start the journey/madness ;) 
+* http://vimcasts.org/episodes/ - Bit sized vim learning screen cast
+
 ## YAML
 * http://docs.ansible.com/ansible/YAMLSyntax.html - YAML config files are popping up everywhere. Know the syntax dev! 
 
