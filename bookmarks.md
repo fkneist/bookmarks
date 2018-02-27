@@ -13,11 +13,11 @@ This is a curated list of bookmarks of https://github.com/fkneist and https://gi
 * https://developers.google.com/speed/pagespeed/insights/
 
 ### Functional Programming
-https://drboolean.gitbooks.io/mostly-adequate-guide/content/
+* https://drboolean.gitbooks.io/mostly-adequate-guide/content/
 
 ### Design Patterns in Javascript
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
-http://www.dofactory.com/javascript/design-patterns
+* https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
+* http://www.dofactory.com/javascript/design-patterns
 
 ## Bash/Shell
 * http://explainshell.com/ - explains shell commands, doh
