@@ -2,6 +2,9 @@
 
 This is a curated list of bookmarks of https://github.com/fkneist and https://github.com/uloco . It will most likely grow :)
 
+## General Programming Wisdom
+* https://pragprog.com/the-pragmatic-programmer/extracts/tips - Tips from the book 'The Pragmatic Programmer'
+
 ## WebDev
 ### NodeJS
 * http://nodeschool.io/ - interactive command line guides
